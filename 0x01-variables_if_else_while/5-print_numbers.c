@@ -6,9 +6,10 @@
  * Return: 0
  */
 
-it main(void)
+int main(void)
 {
 	int n;
+
 	while (n < 10)
 	{
 		printf("%d",n);
