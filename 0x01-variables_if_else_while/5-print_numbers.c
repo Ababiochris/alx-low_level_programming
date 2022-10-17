@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - program that prints all single digit numbers of base 10 starting from 
+ * main - program that prints all single digit numbers of base 10 starting 
  * all your code should be in main function
  * Return: 0
  */
@@ -12,7 +12,7 @@ int main(void)
 
 	while (n < 10)
 	{
-		printf("%d",n);
+		printf("%d", n);
 		n += 1;
 	}
 	printf("\n");
